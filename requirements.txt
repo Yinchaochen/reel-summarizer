@@ -1,0 +1,4 @@
+google-genai
+faster-whisper
+pytesseract
+Pillow
